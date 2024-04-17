@@ -1,0 +1,32 @@
+# Compiled output
+*.o
+*.out
+*.exe
+*.so
+*.dll
+
+# Dependency directories
+node_modules/
+vendor/
+
+# Environment-specific files
+.env
+.env.local
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files
+*.tmp
+*.log
+
+# Sensitive information
+secret.txt
+*.key
+
+# User-specific files
+.history/
+.bash_history
